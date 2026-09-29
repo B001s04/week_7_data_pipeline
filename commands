@@ -1,0 +1,4 @@
+env | grep -iE '^PG|postgres|database|db_'
+ls -a ~ | grep -iE 'pgpass|psqlrc|\.env'
+cat ~/workspace/.vscode/settings.json
+head -60 ~/workspace/README.md
