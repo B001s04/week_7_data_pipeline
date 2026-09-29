@@ -1,0 +1,8 @@
+.venv/
+.venv.bak/
+__pycache/
+*.pyc
+airflow_home/
+logs/
+fetch_lemy_example.py
+lemmy_posts.json
