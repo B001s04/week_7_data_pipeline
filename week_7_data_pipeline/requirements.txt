@@ -1,0 +1,4 @@
+# Install with the Airflow 2.9.2 constraints file (see README.md / guide Part 5.2)
+apache-airflow==2.9.2
+apache-airflow-providers-postgres
+requests
